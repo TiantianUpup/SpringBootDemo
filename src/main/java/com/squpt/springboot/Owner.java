@@ -1,7 +1,8 @@
 package com.squpt.springboot;
 
 /**
- * Created by I am master on 2017/10/7.
+ * @author hetiantian
+ * 实体类
  */
 public class Owner {
     private Integer id;
